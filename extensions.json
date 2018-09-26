@@ -1,0 +1,18 @@
+{
+"extensions":
+  [
+    {
+    "builtin": "False",
+    "enable": "True",
+    "type": "extension",
+    "name": "JS_test",
+    "description": "JSzczesniak testing ground",
+	"author": "Jon Szczesniak",
+    "author-url": "https://graymatter.bcj.com/Community/Pages/EmployeeProfilePage.aspx?Employee=B7DEB3DD-5002-4FCA-BB48-184CEE643CC8",
+    "url": "",
+    "website": "http://www.bcj.com",
+    "image": "",
+    "dependencies": []
+    }
+  ]
+}
